@@ -6,5 +6,5 @@ The GIT-Assignment1 repository has been created to accomplish the GIT assignment
 
 Following students from Saskatchewan Polytechnic AI-DA program are participating to complete the assignment.
 
-
+- Smitesh Tamboli
 
